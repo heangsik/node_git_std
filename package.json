@@ -1,0 +1,19 @@
+{
+  "name": "node_git_first",
+  "version": "1.0.0",
+  "description": "node git std",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heangsik/node_git_std.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heangsik/node_git_std/issues"
+  },
+  "homepage": "https://github.com/heangsik/node_git_std#readme"
+}
